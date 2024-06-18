@@ -1,4 +1,4 @@
 ---
-title: "Latest news"
-description: "this is meta description"
+title: "Templates"
+description: "this is meta description..."
 ---

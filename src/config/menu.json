@@ -3,13 +3,13 @@
     {
       "name": "Home",
       "url": "/"
-    },
+    },    
     {
-      "name": "Blog",
+      "name": "Templates",
       "url": "/blog"
     },
     {
-      "name": "Pricing",
+      "name": "Packages",
       "url": "/pricing"
     },
     {
@@ -21,7 +21,7 @@
       "url": "/faq"
     },
     {
-      "name": "Templates",
+      "name": "",
       "url": "/elements"
     }
   ],

@@ -7,7 +7,7 @@ const { post, index } = Astro.props;
 const { blog_folder, summary_length } = config.settings;
 ---
 
-<div class="post">
+<div class="post" style="border: gray 2px solid; padding: 15px; border-radius: 20px;">
   {
     post.data.image && (
       <Image

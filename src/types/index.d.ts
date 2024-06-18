@@ -52,9 +52,9 @@ export type TPostType = {
 export type TPlan = {
   title: string;
   subtitle: string;
-  price: number;
+  //price: number;
   recommended: boolean;
-  type: string;
+  //type: string;
   features: string[];
   button: {
     label: string;

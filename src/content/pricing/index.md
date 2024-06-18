@@ -1,12 +1,12 @@
 ---
-title: Pricing
+title: Packages
 description: "meta description"
 draft: false
 plans:
 - title: Basic Plan
   subtitle: Best For Small Individuals
-  price: 49
-  type: month
+  # price: 49
+  #type: month
   features:
     - Express Service
     - Customs Clearance
@@ -17,8 +17,8 @@ plans:
 
 - title: Professional Plan
   subtitle: Best For Professionals
-  price: 69
-  type: month
+  #price: 69
+  #type: month
   recommended: true
   features:
     - Express Service
@@ -27,19 +27,19 @@ plans:
     - Cloud Service
     - Best Dashboard
   button:
-    label: Get started
+    label: Get started for free
     link: "/contact"
 
 - title: Business Plan
   subtitle: Best For Large Individuals
-  price: 99
-  type: month
+  #price: 99
+  #type: month
   features:
     - Express Service
     - Customs Clearance
     - Time-Critical Services
   button:
-    label: Get started
+    label: Get started for free
     link: "/contact"
 
 call_to_action:
